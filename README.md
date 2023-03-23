@@ -1,5 +1,6 @@
 # 💫 About Me:
 A passionate Web Developer, interested in UI/UX, React, Backend Development and Cloud Computing
+Fscinated by Web3.0
 
 
 ## 🌐 Socials:
